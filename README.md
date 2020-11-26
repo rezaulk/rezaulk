@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 
   <img align="left" alt="rezaulk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rezaulk&show_icons=true" />
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezaulk&layout=compact)]()
 
 
 [website]: https://rezaulk.me/
