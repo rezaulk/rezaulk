@@ -11,7 +11,7 @@ I value commitment, reliability, initiative, and innovative thinking in myself a
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [MindFork Tech Ltd.](https://www.mindfork.tech/)
+- 🔭 I’m currently working on [NybSys.](https://nybsys.com/)
 - 🌱 I’m currently learning asp.net core and Angular
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/rezaulk/github-readme-stats)
 - 🤔 I’m looking for help with solving problems.
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <br />
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 
 <p align="left">
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /> </a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="azure" width="40" height="40" /> </a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="azure" width="40" height="40" /> </a>
-</p>
+</p> -->
  
 <br>
 <br>
