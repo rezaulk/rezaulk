@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/rezaulk/github-readme-stats)
 - 🤔 I’m looking for help with solving problems.
 - 💬 Ask me about anything [here](https://github.com/rezaulk/rezaulk/issues)
-- 📫 How to reach me: rezaul.bd77@gmail.com || [rezaul][website]
+- 📫 How to reach me: rezaul.bd77@gmail.com
  
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  
 
