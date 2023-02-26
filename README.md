@@ -11,7 +11,7 @@ I value commitment, reliability, initiative, and innovative thinking in myself a
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Surbana Jurong Group.](https://surbanajurong.com/)
+<!-- - 🔭 I’m currently working on [Surbana Jurong Group.](https://surbanajurong.com/) -->
 - 🌱 I’m currently learning asp.net core and Angular
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/rezaulk/github-readme-stats)
 - 🤔 I’m looking for help with solving problems.
